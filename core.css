@@ -7,7 +7,6 @@ The 2 items above are not owned by me, They go to there respected owners
 */
 
 :root{
-    --background: url('https://images8.alphacoders.com/533/533007.png');
     --activetext-colour: white;
 
     --primary1-colour: red;
@@ -31,7 +30,7 @@ The 2 items above are not owned by me, They go to there respected owners
 	/*Background Img*/
 	#app-mount,
 	#app-mount .container-16j22k {
-		background-image: var(--background); 
+		background-image: url('https://images.alphacoders.com/632/632525.png'); 
 		background-position: center; 
 		background-size: cover; 
 	}
